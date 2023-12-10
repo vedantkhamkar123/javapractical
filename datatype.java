@@ -68,5 +68,17 @@ public class Datatype {
     }
 
 }
-
-
+/* 
+       --------OUTPUT--------
+Byte Min Value :- -128
+Byte Max Value :- 127
+Byte : 100
+Short : 500
+Int : 10000
+Long : 12545454555
+float : 4.5
+Double : 3.456567
+Char : A
+Boolean : true
+String : www.vedantkhamkar.com
+*/
