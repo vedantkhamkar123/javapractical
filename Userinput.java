@@ -38,3 +38,26 @@ public class Userinput {
         }
 
     }
+
+/*    
+                   *******INPUT*******
+Enter Your Address ... 
+MUMBAI
+Enter Your name ... 
+KK
+Enter Your age  ... 
+12
+Enter Your height  ... 
+5
+Enter Your grade  ... 
+A+
+
+------output---------------
+
+Your Name : KK
+Your age : 12
+Your height : 5.0
+Your grade : A
+Your address : MUMBAI   
+
+ */
