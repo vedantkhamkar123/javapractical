@@ -1,4 +1,4 @@
-package Assignment;
+package SYBSCIT;
 import java.util.Scanner;
 public class Datatype {
     public static void main(String[] args) {
