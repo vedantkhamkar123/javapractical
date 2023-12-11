@@ -1,12 +1,9 @@
-package Assignment;
+package SYBSCIT;
 
-import java.util.Scanner;
 public class Assign {
 
     public static void main(String[] args) {
         int n = 56;
-
-        System.out.println(n);
         int m=69;
         System.out.println("Addition of number "+n+" + "+m+" = "+(n+m));
 
@@ -34,3 +31,13 @@ public class Assign {
         System.out.println("after a swapping v="+v+" s="+s);
     }
 }
+
+\\           -------OUTPUT------
+    
+Addition of number 56 + 69 = 125
+34.96
+ASCII no of D is 68
+Quotient is 3
+Reminder is 0
+original values  v=87 s=45
+after a swapping v=45 s=87
