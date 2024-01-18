@@ -32,4 +32,44 @@ public class Datatype {
     }}
 
 2.
+class value
+{
+    public static void main(String[] args){
+        //System.out.println(int.MAX_VALUE);
+    System.out.println("Max Int:"+ Integer.MAX_VALUE);
+    System.out.println("Min Int:"+ Integer.MIN_VALUE);
 
+    System.out.println("Max Double:"+ Double.MAX_VALUE);
+    System.out.println("Max Double:"+ Double.MIN_VALUE);
+        
+    System.out.println("Max Short:"+ Short.MAX_VALUE);
+    System.out.println("Max Short:"+ Short.MAX_VALUE);
+        
+    System.out.println("Max byte:"+ Byte.MAX_VALUE);
+    System.out.println("Max byte:"+ Byte.MAX_VALUE);
+        
+    System.out.println("Max Long:"+ Long.MAX_VALUE);
+    System.out.println("Max Long:"+ Long.MAX_VALUE);
+        
+    System.out.println("Max Float:"+ Float.MAX_VALUE);
+    System.out.println("Max Float:"+ Float.MAX_VALUE);
+    }
+}
+
+3.
+class COD    //change of datatype
+{
+   public static void main(String[] args){ 
+    byte b = 12;
+    //short s =(byte)b;
+    //int a =(byte)b;
+     short s =b;
+       int a= b;
+       int x =12;
+       //byte y=(int)x;
+    byte y =(byte)x;
+     System.out.println("Byte --> Short"+" "+b+"-->"+s);
+     System.out.println("Byte -->Int"+" "+b+"-->+a);
+     System.out.println(y);
+   }
+}
