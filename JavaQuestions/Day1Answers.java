@@ -1,8 +1,6 @@
 1.Write a java program to illustrate different types of data?
 
-package javapractice;
-
-public class Datatype {
+class Datatype {
     public static void main(String[] args) {
 
             byte a = 30;
