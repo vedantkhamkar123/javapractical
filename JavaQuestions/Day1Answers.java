@@ -1,4 +1,4 @@
-1.Write a java program to illustrate different types of data?
+//1.Write a java program to illustrate different types of data?
 
 class Datatype {
     public static void main(String[] args) {
@@ -29,7 +29,7 @@ class Datatype {
 
     }}
 
-2.
+//2.
 class value
 {
     public static void main(String[] args){
@@ -54,7 +54,7 @@ class value
     }
 }
 
-3.
+//3.
 class COD    //change of datatype
 {
    public static void main(String[] args){ 
